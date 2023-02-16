@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 📕 I'm currently learning [multibody dynamics](https://moorepants.github.io/learn-multibody-dynamics/).
 
-💬 Ask me about `electrophysiological signals, `signal processing`, `brain-computer interfacing`, `functional electrical stimulation`.
+💬 Ask me about `electrophysiological signals`, `signal processing`, `brain-computer interfacing`, `functional electrical stimulation`.
