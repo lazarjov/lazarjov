@@ -1,4 +1,4 @@
-### Hello world 👋 My name is Lazar.
+# Hello world 👋
 
 <!--
 **lazarjov/lazarjov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently building a next-gen academic knowledge interface at [summations.com](https://www.summations.com)
+
+🙋‍♂️ I'm Lazar.
+🎓 I'm a PhD graduate from the [Institute of Biomedical Engineering](https://bme.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/).
+🔬 I'm a postdoctoral fellow at the [Simon Fraser University](https://www.sfu.ca/) investigating biomechanics of running.
+🔭 I'm also a cofounder at [Summations](https://www.summations.com) working to bring the latest academic research into undergradute classrooms.
