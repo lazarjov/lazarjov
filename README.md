@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 🔭 I'm also a cofounder at [Summations](https://www.summations.com) working to bring the latest academic research into undergradute classrooms.
 
-📕 I'm currently learning [PyBullet](https://pybullet.org/wordpress/).
+📕 I'm currently learning [PyBullet](https://pybullet.org/wordpress/). Before this, I was learning [multibody dynamics](https://moorepants.github.io/learn-multibody-dynamics/).
 
 💬 Ask me about `electrophysiological signals`, `signal processing`, `brain-computer interfacing`, `functional electrical stimulation`, `biomechanics`, `exoskeletons`, `3D printing`.
