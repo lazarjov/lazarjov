@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🙋‍♂️ I'm Lazar.
 
-🎓 I'm a PhD graduate from the [Institute of Biomedical Engineering](https://bme.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/).
+🎓 I'm a PhD graduate from the [Institute of Biomedical Engineering](https://bme.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/). I built [KITE-BCI](https://www.uhn.ca/corporate/News/Pages/Getting_a_good_grip.aspx), a brain-computer interface system developed to work with functional electrical stimulaiton therapy for the recovery of arm and hand movement after stroke or spinal cord injury.
 
 🔬 I'm a postdoctoral researcher and co-director of operations at [WearTech Labs](https://www.sfu.ca/research/facilities/weartech-labs), a new core facility at [Simon Fraser University](https://www.sfu.ca/). My research is focued on exoskeletons designed to enhance human running.
 
