@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎓 I'm a PhD graduate from the [Institute of Biomedical Engineering](https://bme.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/).
 
-🔬 I'm a postdoctoral fellow and co-director of operations at [WearTech Labs](https://www.sfu.ca/research/facilities/weartech-labs), a new core facility at [Simon Fraser University](https://www.sfu.ca/). My research is focued on exoskeletons designed to enhance human running.
+🔬 I'm a postdoctoral researcher and co-director of operations at [WearTech Labs](https://www.sfu.ca/research/facilities/weartech-labs), a new core facility at [Simon Fraser University](https://www.sfu.ca/). My research is focued on exoskeletons designed to enhance human running.
 
 🔭 I'm also a cofounder at [Summations](https://www.summations.com) working to bring the latest academic research into undergradute classrooms.
 
