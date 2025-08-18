@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ∑ I'm also a cofounder at [Summations](https://www.summations.com) working to bring the latest academic research into undergradute classrooms.
 
-📕 I'm learning about [Haskell](https://www.haskell.org).
+📕 I'm reading about [progress](https://press.stripe.com).
 
 💬 Ask me about `wearable technology`, `electrophysiological signals`, `signal processing`, `brain-computer interfacing`, `functional electrical stimulation`, `biomechanics`, `exoskeletons`, `3D printing`.
